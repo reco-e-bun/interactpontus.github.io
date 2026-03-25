@@ -1,9 +1,9 @@
-:HL["/_next/static/chunks/8a80e7184ad3a13f.css","style"]
-:HL["/_next/static/chunks/e3ac779eadc26e9a.css","style"]
-:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/interactpontus.github.io/_next/static/chunks/8a80e7184ad3a13f.css","style"]
+:HL["/interactpontus.github.io/_next/static/chunks/e3ac779eadc26e9a.css","style"]
+:HL["/interactpontus.github.io/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/interactpontus.github.io/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/placeholder.svg?height=400&width=500","image"]
 :HL["/instagram.svg","image"]
 :HL["/tiktok.svg","image"]
 :HL["/mail.svg","image"]
-0:{"buildId":"5C16fg7fjH81uU_zQ-gZH","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"lRbS5fp3eOGjG6SJz50Uz","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
