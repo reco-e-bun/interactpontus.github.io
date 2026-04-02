@@ -1,3 +1,6 @@
-:HL["/interactpontus.github.io/_next/static/chunks/8a80e7184ad3a13f.css","style"]
-:HL["/interactpontus.github.io/_next/static/chunks/e3ac779eadc26e9a.css","style"]
-0:{"buildId":"lRbS5fp3eOGjG6SJz50Uz","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/_next/static/chunks/8a80e7184ad3a13f.css","style"]
+:HL["/_next/static/chunks/58cff6b65cba6a71.css","style"]
+:HL["/instagram.svg","image"]
+:HL["/tiktok.svg","image"]
+:HL["/mail.svg","image"]
+0:{"buildId":"ahD6QPUzlGRWYx786l8vZ","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
